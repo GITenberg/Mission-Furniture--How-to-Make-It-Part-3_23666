@@ -1,0 +1,32 @@
+_repo: Mission-Furniture--How-to-Make-It-Part-3_23666
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Windsor, H. H. (Henry Haven)
+    alias: Windsor, Henry Haven
+    birthdate: 1859
+    deathdate: 1924
+    gutenberg_agent_id: '25975'
+    url: http://www.gutenberg.org/2009/agents/25975
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Haven_Windsor
+description: ''
+gutenberg_bookshelf:
+- Woodwork
+- Crafts
+gutenberg_issued: '2007-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Furniture, Mission -- Design and construction'
+- !lcc 'TT'
+- !lcsh 'Furniture making -- Amateurs'' manuals'
+title: 'Mission Furniture: How to Make It, Part 3'
+url: http://www.gutenberg.org/ebooks/23666
