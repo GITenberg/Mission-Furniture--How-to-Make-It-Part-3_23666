@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25975
     wikipedia: http://en.wikipedia.org/wiki/Henry_Haven_Windsor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23666#Mission-Furniture--How-to-Make-It-Part-3
 gutenberg_bookshelf:
 - Woodwork
 - Crafts
